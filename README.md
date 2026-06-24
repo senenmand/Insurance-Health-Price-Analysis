@@ -11,7 +11,6 @@ Language: Python (Jupyter Notebook)
 - Identify patterns and correlations between variables
 - Provide insights into factors affecting insurance costs
 - Perform statistical analysis and data visualization
-- Document findings in an accessible format
 
 ## 📊 Contents
 
